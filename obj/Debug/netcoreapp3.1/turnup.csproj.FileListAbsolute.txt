@@ -1,0 +1,17 @@
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.exe
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.deps.json
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.runtimeconfig.json
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.runtimeconfig.dev.json
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.dll
+D:\turnup\bin\Debug\netcoreapp3.1\turnup.pdb
+D:\turnup\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\turnup\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\turnup\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.AssemblyInfoInputs.cache
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.AssemblyInfo.cs
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.csproj.CoreCompileInputs.cache
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.csproj.CopyComplete
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.dll
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.pdb
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.genruntimeconfig.cache
+D:\turnup\obj\Debug\netcoreapp3.1\turnup.csproj.AssemblyReference.cache
